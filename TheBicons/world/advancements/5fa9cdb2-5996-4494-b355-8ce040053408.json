@@ -1,0 +1,277 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2023-11-01 21:03:18 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2023-11-01 21:37:00 -0400",
+      "minecraft:deep_ocean": "2023-11-01 21:08:01 -0400",
+      "minecraft:eroded_badlands": "2023-11-01 21:34:15 -0400",
+      "minecraft:cherry_grove": "2023-11-01 21:39:44 -0400",
+      "minecraft:birch_forest": "2023-11-01 21:08:38 -0400",
+      "minecraft:wooded_badlands": "2023-11-01 21:34:39 -0400",
+      "minecraft:badlands": "2023-11-01 21:34:19 -0400",
+      "minecraft:savanna_plateau": "2023-11-01 21:03:43 -0400",
+      "minecraft:beach": "2023-11-01 21:07:16 -0400",
+      "minecraft:stony_peaks": "2023-11-01 21:03:48 -0400",
+      "minecraft:dark_forest": "2023-11-01 21:22:08 -0400",
+      "minecraft:sparse_jungle": "2023-11-01 21:06:04 -0400",
+      "minecraft:lukewarm_ocean": "2023-11-01 21:06:54 -0400",
+      "minecraft:river": "2023-11-01 21:06:03 -0400",
+      "minecraft:stony_shore": "2023-11-01 21:36:31 -0400",
+      "minecraft:cold_ocean": "2023-11-01 21:37:09 -0400",
+      "minecraft:forest": "2023-11-01 21:04:16 -0400",
+      "minecraft:deep_cold_ocean": "2023-11-01 21:37:15 -0400",
+      "minecraft:desert": "2023-11-01 21:34:34 -0400",
+      "minecraft:jungle": "2023-11-01 21:06:25 -0400",
+      "minecraft:ocean": "2023-11-01 21:08:26 -0400",
+      "minecraft:old_growth_spruce_taiga": "2023-11-01 21:37:08 -0400",
+      "minecraft:windswept_savanna": "2023-11-01 21:23:13 -0400",
+      "minecraft:warm_ocean": "2023-11-01 21:35:28 -0400",
+      "minecraft:deep_lukewarm_ocean": "2023-11-01 21:07:36 -0400",
+      "minecraft:old_growth_birch_forest": "2023-11-01 21:21:39 -0400",
+      "minecraft:savanna": "2023-11-01 21:03:19 -0400",
+      "minecraft:plains": "2023-11-01 21:04:27 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/ladder": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/campfire": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_hoe": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_pickaxe": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_axe": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/wooden_shovel": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/wooden_sword": {
+    "criteria": {
+      "has_stick": "2023-11-01 21:05:27 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/cherry_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/bamboo_raft": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-11-01 21:08:13 -0400"
+    },
+    "done": true
+  },
+  "minecraft:husbandry/balanced_diet": {
+    "criteria": {
+      "cooked_beef": "2023-11-01 21:11:14 -0400",
+      "golden_carrot": "2023-11-01 21:09:21 -0400"
+    },
+    "done": false
+  },
+  "minecraft:husbandry/root": {
+    "criteria": {
+      "consumed_item": "2023-11-01 21:09:21 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/stick": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/barrel": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2023-11-01 21:09:25 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_the_recipe": "2023-11-01 21:12:03 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2023-11-01 21:25:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2023-11-01 21:25:59 -0400"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2023-11-01 21:26:00 -0400"
+    },
+    "done": false
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2023-11-01 21:26:05 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/cauldron": {
+    "criteria": {
+      "has_water_bucket": "2023-11-01 21:28:44 -0400"
+    },
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2023-11-01 21:31:23 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_smelting": {
+    "criteria": {
+      "has_golden_sword": "2023-11-01 21:36:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_nugget_from_blasting": {
+    "criteria": {
+      "has_golden_sword": "2023-11-01 21:36:47 -0400"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2023-11-01 21:39:14 -0400"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
